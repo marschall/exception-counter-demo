@@ -1,4 +1,4 @@
-package com.github.marschall.excount;
+package com.github.marschall.excountdemo;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;
 
